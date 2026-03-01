@@ -76,3 +76,6 @@ streamlit run src/web/main.py
 - **[Google GenAI](https://ai.google.dev/)**: Large Language Model for generation.
 - **[Sentence-Transformers](https://sbert.net/)**: Embedding generation.
 - **[PyMuPDF](https://pymupdf.readthedocs.io/en/latest/) / [PyPDF](https://pypdf.readthedocs.io/en/latest/)**: PDF document loading.
+
+## note
+- The data dir is delete in the repo but it can be created while running the codebase
